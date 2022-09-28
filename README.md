@@ -1,5 +1,5 @@
 # School District Analysis Overview
-## The purpose of the analysis
+## I will be providing Maria with new math and reading scores for Thomas High School after I replace them with NaNs.  The school board thinks there has been dishonesty in the scoring of these two subjects.  
 
 # Results
 - bullet list that addresses how each of the seven school district metrics was affected by the changes in the data
