@@ -21,7 +21,7 @@ School Summary: [Before](https://github.com/ramon0101alonso/School-District-Anal
 ![Spending before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/before%20spending.png)
 ![Spending after](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/after%20Nan%20spending.png)
 - Scores by school type
-![Scores before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Scores%20and%20%25%20Before.png)
-![Scores after](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Scores%20and%20%25%20After.png)
+![Scores before]()
+![Scores after]()
 # Summary
 ## summarize four changes to the school district analysis after the reading and math scores have been replaced
