@@ -17,10 +17,10 @@
 - Math and reading scores by grade
 ![]()
 - Scores by school spending
-![Spending before]()
-![Spending after]()
+![Spending before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Spending%20Before.png)
+![Spending after](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Spending%20After.png)
 - Scores by school type
-![Scores before]()
-![Scores after]()
+![Scores before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Scores%20and%20%25%20Before.png)
+![Scores after](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Scores%20and%20%25%20After.png)
 # Summary
 ## summarize four changes to the school district analysis after the reading and math scores have been replaced
