@@ -1,12 +1,18 @@
 # School District Analysis Overview
-## I will be providing Maria with new math and reading scores for Thomas High School after I replace them with NaNs. The score comparison will inform the school board if there has been dishonesty in the scoring of these two subjects.  
+## I will be providing Maria with new math and reading scores for Thomas High School after I replace the 9th graders  with a score of NaN. The score comparison will inform the school board if there has been dishonesty in the scoring of these two subjects.  
 
 # Results
 ## How is the district summary affected?
-![Before Summary](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/before%20district%20analysis.png)
-![After Summary](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/after%20district%20analysis.png)
+###### After replacing the 9th grade scores with Nan, the change in the overal 15 schools was insignificant.  The links will show how average math scores dropped by 0.1%, and the reading and math passing rate dropped by 0.1%.  
+
+- ![Before Summary](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/before%20district%20analysis.png)
+- ![After Summary](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/after%20district%20analysis.png)
+
 ## How is the school summary affected?
-School Summary: [Before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/before%20summary.png). [After](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/after%20summary.png).
+###### Thomas Jefferson Students who passed math dropped from 93% to 70%.  Those who passed reading, the score changed from 97% to 70%.  The charts below show these changes.
+School Summary: 
+- [Before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/before%20summary.png). 
+- [After](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/after%20summary.png).
 
 ![]()
 ## How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
