@@ -3,8 +3,8 @@
 
 # Results
 ## How is the district summary affected?
-
-
+![Before Summary](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/before%20district%20summary.png)
+![After Summary](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/after%20district%20summary.png)
 ## How is the school summary affected?
 School Summary: [Before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/before%20summary.png). [After](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/after%20summary.png).
 
