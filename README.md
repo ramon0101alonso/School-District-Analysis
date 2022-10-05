@@ -3,8 +3,8 @@
 
 # Results
 ## How is the district summary affected?
-- 
-![]()
+District Summary before:[](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Before%20summary.png)
+District Summary after:[]()
 ## How is the school summary affected?
 -
 ![]()
