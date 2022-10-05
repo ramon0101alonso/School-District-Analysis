@@ -3,10 +3,11 @@
 
 # Results
 ## How is the district summary affected?
-District Summary: [Before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/before%20summary.png).
-District Summary:[After](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/after%20summary.png).
+
+
 ## How is the school summary affected?
--
+School Summary: [Before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/before%20summary.png). [After](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/after%20summary.png).
+
 ![]()
 ## How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
 - bullet
