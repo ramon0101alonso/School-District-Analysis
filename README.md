@@ -16,7 +16,8 @@ School Summary: [Before](https://github.com/ramon0101alonso/School-District-Anal
 ## By replacing the ninth-grade scores this is the affect it has on the following:
 
 - Math and reading scores by grade
-![]()
+![Scores before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/scores%20by%20grade%20before.png)
+![Scores after](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/scores%20by%20grade%20after.png)
 - Scores by school spending
 ![Spending before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/before%20spending.png)
 ![Spending after](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/after%20Nan%20spending.png)
