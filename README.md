@@ -11,14 +11,14 @@ School Summary: [Before](https://github.com/ramon0101alonso/School-District-Anal
 ![]()
 ## How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
 - bullet
-![top 5 before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Top%205%20School%20Before.png)
+![top 5 before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Before%20top%205.png)
 ![top 5 after](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Top%205%20After.png)
 ## By replacing the ninth-grade scores this is the affect it has on the following:
 
 - Math and reading scores by grade
 ![]()
 - Scores by school spending
-![Spending before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Spending%20Before.png)
+![Spending before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Before%20Spending%20.png)
 ![Spending after](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Spending%20After.png)
 - Scores by school type
 ![Scores before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Scores%20and%20%25%20Before.png)
