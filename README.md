@@ -18,8 +18,8 @@ School Summary: [Before](https://github.com/ramon0101alonso/School-District-Anal
 - Math and reading scores by grade
 ![]()
 - Scores by school spending
-![Spending before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Before%20Spending%20.png)
-![Spending after](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Spending%20After.png)
+![Spending before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/before%20spending.png)
+![Spending after](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/after%20spending.png)
 - Scores by school type
 ![Scores before](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Scores%20and%20%25%20Before.png)
 ![Scores after](https://github.com/ramon0101alonso/School-District-Analysis/blob/main/Scores%20and%20%25%20After.png)
